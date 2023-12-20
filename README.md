@@ -41,16 +41,19 @@ print("{:.2f}".format(norm))
 ## Output:
 ### 1-Norm of a Matrix
 
-![OUTPUT](image.png)
+![OUTPUT](https://github.com/Oviya24032K6/Norm-of-a-matrix/assets/147139999/52e86d7d-7ed9-473a-905f-5941888a7a12)
+
 
 
 ### 2-Norm of a Matrix
 
-![OUTPUT](image-1.png)
+![OUTPUT](https://github.com/Oviya24032K6/Norm-of-a-matrix/assets/147139999/82ce6e98-8a6e-4ea7-88ec-07613ad5d0bd)
+
 
 ### Infinity Norm of a Matrix
 
-![OUTPUT](image-2.png)
+![OUTPUT](https://github.com/Oviya24032K6/Norm-of-a-matrix/assets/147139999/7a7a2226-0220-4bfe-ac00-1d360bfd855d)
+
 
 ## Result
 
